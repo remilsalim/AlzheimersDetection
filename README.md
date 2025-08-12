@@ -29,4 +29,4 @@ This project focuses on detecting Alzheimer’s disease using machine learning t
 
 ## Contact
 
-For questions or contributions, please contact: [your-email@example.com]
+For questions or contributions, please contact: [remilsalim369@gmail.com]
